@@ -1,0 +1,7 @@
+{
+  "name": "aha-ka",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
