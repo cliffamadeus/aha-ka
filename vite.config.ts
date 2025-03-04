@@ -10,6 +10,7 @@ export default defineConfig({
     react(),
     legacy()
   ],
+  base:'/aha-ka',
   test: {
     globals: true,
     environment: 'jsdom',
